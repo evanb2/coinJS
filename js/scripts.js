@@ -23,7 +23,6 @@ var changeMachine = function(input) {
 
     }
     change.push(quarter_div, dime_div, nickel_div, pennies);
-    console.log(change);
     return change;
 
 };
