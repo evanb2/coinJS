@@ -27,3 +27,14 @@ var changeMachine = function(input) {
     return change;
 
 };
+
+$(document).ready(function() {
+    $("form#input").submit(function(event) {
+        var input = $("input#number").val();
+        var result = changeMachine(input);
+
+        $(".change").text(result);
+
+        event.preventDefault();
+    });
+});
