@@ -1,15 +1,19 @@
-# Name:
-# Date:
+# Name: Evan Butler
+# Date: 
 
-Description:
+Description: A site for calculating the amount of change to be returned using the least amount of coins.
 
 # SetUp and Use
-In order to use this program you will need a browser...NOT IE!
 
 SetUp
-1.
 
-# Copyright (c) 2015 (Name)
+1. Open terminal/console and type: 'git clone https://github.com/evanb2/coinJS'
+
+2. Open the coinJS folder and open the html file in your web browser.
+
+3. Follow the instructions on the site.
+
+# Copyright (c) 2015 (Evan Butler)
 
 # The MIT License (MIT)
 
