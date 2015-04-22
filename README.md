@@ -1,5 +1,5 @@
 # Name: Evan Butler
-# Date: 
+# Date: April 8, 2015.
 
 Description: A site for calculating the amount of change to be returned using the least amount of coins.
 
